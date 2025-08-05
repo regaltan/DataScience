@@ -2,6 +2,8 @@
 
 This project documents a comprehensive, multi-stage experiment to identify the optimal feature engineering and modeling pipeline for sentiment analysis on a 3.6 million review dataset. The goal was to systematically test a wide variety of techniques to find the highest-performing combination, mirroring a real-world Kaggle competition environment.
 
+Note: To run the various models in the ipynb file, simply uncomment the sections...
+
 ---
 
 ### **Phase 1: Feature Engineering Evaluation**
