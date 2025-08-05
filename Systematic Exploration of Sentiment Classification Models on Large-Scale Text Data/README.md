@@ -23,7 +23,7 @@ A wide suite of models was trained and evaluated on the hold-out validation set.
 | Model | Feature Method | Validation Accuracy |
 | :--- | :--- | :--- |
 | **🏆 Logistic Regression (Tuned, C=12)** | **Chi-Square** | **90.7%** |
-| Logistic Regression (Default) | Chi-Square | 90.0% |
+| Logistic Regression (C=1) | Chi-Square | 90.0% |
 | Logistic Regression | TF-IDF | 89.0% |
 | SVM (Linear Kernel) | Chi-Square | 89.0% |
 | SVM (Linear Kernel) | TF-IDF | 87.0% |
